@@ -1,0 +1,12 @@
+name = "Choub"
+license = "MIT"
+licenselink = "https://github.com/supxinfy/chob/blob/master/LICENSE"
+description = ""
+homepage = "http://example.com/"
+tags = ["blog"]
+features = []
+min_version = "0.115.4"
+
+[author]
+  name = "Vladislav Shubin"
+  homepage = "https://github.com/supxinfy"
